@@ -1,6 +1,6 @@
 # Hi, I'm Ritesh Gurav 👋
 
-🎓 **PG-DITISS Graduate | CDAC Pune (2025–2026)**  
+🎓 **IT Infrastructure Security and System Graduate | Pune (2025–2026)**  
 💼 **Open to Jobs & Freelance — DevSecOps | Cybersecurity | Cloud**  
 📍 Pune, India
 
